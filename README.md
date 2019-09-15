@@ -21,3 +21,7 @@ Use proper grammar and punctuation
 Don't end with a '.'
 
 For more advice, see https://chris.beams.io/posts/git-commit/
+
+## Merging
+
+erging means to bring the changes from one branch into another.
