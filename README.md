@@ -9,6 +9,7 @@
 - git config: Set or get configuration
 - git log: Show history of project commits
 - git checkout: Switch branch and update reference to HEAD
+- git mere: Merge changes from different branches
 
 ## Commit messages
 
